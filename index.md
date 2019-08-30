@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to WangHongDi Pages!
 ### 个人信息
 #### 姓名：王鸿迪
 #### 学校：河南工业大学
